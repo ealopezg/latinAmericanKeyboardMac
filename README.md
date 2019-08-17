@@ -16,7 +16,7 @@ Luego iniciar la instalación
 
 Reinciar el equipo y en **Preferencias del sistema > Teclado > Fuentes de entrada** seleccionar **+** y elegir *Teclado Latinoamericano*.
 
-##Importante
+## Importante
 
 Si al pulsar la tecla **<** arroja **|** deberá cambiar el tipo de teclado a ANSI en 
 **Preferencias del sistema > Teclado > Cambiar tipo de teclado**
